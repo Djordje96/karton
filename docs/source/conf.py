@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 project = 'МЕФ Картон НИР-а'
 copyright = '2020, Ђорђе Пуцар'
 author = 'Ђорђе Пуцар'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
