@@ -22,6 +22,7 @@ project = 'МЕФ Картон НИР-а'
 copyright = '2020, Ђорђе Пуцар'
 author = 'Ђорђе Пуцар'
 master_doc = 'index'
+latex_engine = 'xelatex'
 
 # -- General configuration ---------------------------------------------------
 
